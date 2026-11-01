@@ -1,0 +1,14 @@
+---
+description: The norm is WCAG 2.2. A second language does not lower the target. The copy and the layout stay in their plugins.
+alwaysApply: true
+---
+
+# WCAG is not reinvented
+
+WCAG 2.2 (5 October 2023, updated 12 December 2024) at level AA, unless the product set another target. WCAG 3 is a draft. Do not cite it as the norm.
+
+Check the accessible name, a visible focus, contrast, and target size. A native element comes before ARIA. An automated scan is a hint. It is not conformance.
+
+When the product has two languages, the same checks run on both. The second language does not lower AA.
+
+The words come from `plugin-ux-writing`. The screen structure comes from `plugin-ui-ux-design` or from the built screen. This plugin does not draw the screen and does not rewrite the sentence.

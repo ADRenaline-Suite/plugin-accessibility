@@ -1,0 +1,16 @@
+{
+  "name": "plugin-accessibility",
+  "owner": {
+    "name": "ADRenaline Suite"
+  },
+  "plugins": [
+    {
+      "name": "plugin-accessibility",
+      "source": "./",
+      "description": "WCAG 2.2 checks and requirements. The target is AA unless the product set another."
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace with the Accessibility plugin."
+  }
+}

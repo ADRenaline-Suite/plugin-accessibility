@@ -1,0 +1,15 @@
+{
+  "name": "plugin-accessibility",
+  "description": "WCAG 2.2 checks and requirements. The target is AA unless the product set another.",
+  "version": "0.0.1",
+  "author": {
+    "name": "d-mente"
+  },
+  "license": "MIT",
+  "keywords": [
+    "wcag",
+    "accessibility",
+    "audit"
+  ],
+  "repository": "https://github.com/ADRenaline-Suite/plugin-accessibility"
+}
